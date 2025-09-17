@@ -48,8 +48,3 @@ Special thanks to **CELEC USTHB** for the organization, our mentors for their gu
 ## 🌟 Vision
 A digitally empowered, self-sufficient Algeria.  
 Building **scalable, smart technologies** that tackle real-world challenges.  
-
----
-
-### 📌 Hashtags
-`#JunctionXAlgiers #Hackathon #SmartFarming #DataScience #AI #Aquaculture #AgriTech #DigitalTransformation #FoodSecurity #Innovation #WebDev #Chatbot #OpenCV #MadeInAlgeria #TeamControl #TechForGood #Data #cosidere`
